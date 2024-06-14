@@ -1,0 +1,47 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/ExperimentBox/Unreal/CobraCode/ProjectTwo/CobraDos/Content/Maps/MAP_Debug.umap",
+				"D:/ExperimentBox/Unreal/CobraCode/ProjectTwo/CobraDos/Content/PaperSprites/Runner/T_Runner.uasset",
+				"D:/ExperimentBox/Unreal/CobraCode/ProjectTwo/CobraDos/Content/PaperSprites/Goal/T_Goal_Ripped.uasset",
+				"D:/ExperimentBox/Unreal/CobraCode/ProjectTwo/CobraDos/Content/PaperSprites/Goal/T_Goal_Connected.uasset",
+				"D:/ExperimentBox/Unreal/CobraCode/ProjectTwo/CobraDos/Content/PaperSprites/Background/T_Field.uasset",
+				"D:/ExperimentBox/Unreal/CobraCode/ProjectTwo/CobraDos/Content/PaperSprites/Runner/FB_Runner_Idle.uasset",
+				"D:/ExperimentBox/Unreal/CobraCode/ProjectTwo/CobraDos/Content/PaperSprites/Runner/FB_Runner_Run.uasset",
+				"D:/ExperimentBox/Unreal/CobraCode/ProjectTwo/CobraDos/Content/PaperSprites/Background/T_Field_Sprite.uasset",
+				"D:/ExperimentBox/Unreal/CobraCode/ProjectTwo/CobraDos/Content/PaperSprites/Goal/T_Goal_Connected_Sprite.uasset",
+				"D:/ExperimentBox/Unreal/CobraCode/ProjectTwo/CobraDos/Content/PaperSprites/Goal/T_Goal_Ripped_Sprite.uasset",
+				"D:/ExperimentBox/Unreal/CobraCode/ProjectTwo/CobraDos/Content/PaperSprites/Runner/T_Runner_Sprite_0.uasset",
+				"D:/ExperimentBox/Unreal/CobraCode/ProjectTwo/CobraDos/Content/PaperSprites/Runner/T_Runner_Sprite_1.uasset",
+				"D:/ExperimentBox/Unreal/CobraCode/ProjectTwo/CobraDos/Content/PaperSprites/Runner/T_Runner_Sprite_2.uasset",
+				"D:/ExperimentBox/Unreal/CobraCode/ProjectTwo/CobraDos/Content/PaperSprites/Runner/T_Runner_Sprite_3.uasset",
+				"D:/ExperimentBox/Unreal/CobraCode/ProjectTwo/CobraDos/Content/PaperSprites/Runner/T_Runner_Sprite_4.uasset",
+				"D:/ExperimentBox/Unreal/CobraCode/ProjectTwo/CobraDos/Content/PaperSprites/Runner/T_Runner_Sprite_5.uasset",
+				"D:/ExperimentBox/Unreal/CobraCode/ProjectTwo/CobraDos/Content/PaperSprites/Runner/T_Runner_Sprite_6.uasset",
+				"D:/ExperimentBox/Unreal/CobraCode/ProjectTwo/CobraDos/Content/PaperSprites/Runner/T_Runner_Sprite_7.uasset",
+				"D:/ExperimentBox/Unreal/CobraCode/ProjectTwo/CobraDos/Content/PaperSprites/Runner/T_Runner_Sprite_8.uasset",
+				"D:/ExperimentBox/Unreal/CobraCode/ProjectTwo/CobraDos/Content/PaperSprites/Runner/T_Runner_Sprite_9.uasset",
+				"D:/ExperimentBox/Unreal/CobraCode/ProjectTwo/CobraDos/Content/Blueprint/BP_Player.uasset",
+				"D:/ExperimentBox/Unreal/CobraCode/ProjectTwo/CobraDos/Content/Input/Actions/IA_PowerLeft.uasset",
+				"D:/ExperimentBox/Unreal/CobraCode/ProjectTwo/CobraDos/Content/Input/IMC_Runner.uasset",
+				"D:/ExperimentBox/Unreal/CobraCode/ProjectTwo/CobraDos/Content/Blueprint/BP_Runner.uasset",
+				"D:/ExperimentBox/Unreal/CobraCode/ProjectTwo/CobraDos/Content/Blueprint/GM_Runner.uasset",
+				"D:/ExperimentBox/Unreal/CobraCode/ProjectTwo/CobraDos/Content/Blueprint/Enums/E_Input.uasset",
+				"D:/ExperimentBox/Unreal/CobraCode/ProjectTwo/CobraDos/Content/Blueprint/Curves/C_SpeedIncreaseRamp.uasset",
+				"D:/ExperimentBox/Unreal/CobraCode/ProjectTwo/CobraDos/Content/Blueprint/Curves/C_SpeedDecreaseRamp.uasset",
+				"D:/ExperimentBox/Unreal/CobraCode/ProjectTwo/CobraDos/Content/Input/Actions/IA_PowerRight.uasset",
+				"D:/ExperimentBox/Unreal/CobraCode/ProjectTwo/CobraDos/Content/Blueprint/Sounds/Footsteps/S_Steps_2.uasset",
+				"D:/ExperimentBox/Unreal/CobraCode/ProjectTwo/CobraDos/Content/Maps/MAP_Field.umap",
+				"D:/ExperimentBox/Unreal/CobraCode/ProjectTwo/CobraDos/Content/Blueprint/BP_Field.uasset",
+				"D:/ExperimentBox/Unreal/CobraCode/ProjectTwo/CobraDos/Content/Blueprint/AI/AIC_Runner.uasset",
+				"D:/ExperimentBox/Unreal/CobraCode/ProjectTwo/CobraDos/Content/Blueprint/BP_Goal.uasset",
+				"D:/ExperimentBox/Unreal/CobraCode/ProjectTwo/CobraDos/Content/Blueprint/Sounds/Footsteps/S_Steps.uasset",
+				"D:/ExperimentBox/Unreal/CobraCode/ProjectTwo/CobraDos/Content/PaperSprites/Runner/FB_Idle.uasset"
+			]
+		}
+	]
+}
